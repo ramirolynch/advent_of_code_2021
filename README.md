@@ -1,8 +1,9 @@
 ###🎄 Advent of Code 2021
-
+I am taking this opportunity to improve my javascript coding skills.
 
 📆 Calendar
 Advent of Code Day 1
+
 
 🏃 Running
 In each directory
