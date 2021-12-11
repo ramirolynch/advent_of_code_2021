@@ -54,7 +54,6 @@ for (let i=0; i<number.length; i++) {
 
 let epsilonRate = epsilon.join('')
 
-console.log(epsilonRate)
 
-// correct answer epsilon * gamma in decimal numbers
+console.log(parseInt(gammaRate, 2)*parseInt(epsilonRate,2))
 
