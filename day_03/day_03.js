@@ -54,6 +54,12 @@ for (let i=0; i<number.length; i++) {
 
 let epsilonRate = epsilon.join('')
 
+console.log(gammaRate)
+console.log(epsilonRate)
+
+console.log(parseInt(gammaRate,2))
+console.log(parseInt(epsilonRate,2))
+
 
 console.log(parseInt(gammaRate, 2)*parseInt(epsilonRate,2))
 
